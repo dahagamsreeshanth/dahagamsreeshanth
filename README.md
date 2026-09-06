@@ -34,15 +34,8 @@ MongoDB · Mongoose
 ### 🚀 Projects
 
 * **WanderLust** – Full-stack travel listing web application
+* **Stocknex**  - Full-stack online Trading web application
 * **AirWise** – Air-quality monitoring and recommendation application
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahagamsreeshanth\&show_icons=true\&theme=github_dark)
-
----
 
 ### 🤝 Connect With Me
 
