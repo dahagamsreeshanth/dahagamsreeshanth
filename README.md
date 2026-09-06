@@ -1,6 +1,6 @@
 # Hi, I'm Sree Shanth 👋
 
-### Computer Science Student | Full-Stack Developer
+### Computer Science Student | Aspiring Software Developer
 
 I'm a Computer Science student interested in building real-world applications and learning through hands-on projects.
 
