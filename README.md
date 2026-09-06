@@ -1,16 +1,46 @@
-## Hi there 👋
+ # Hi, I'm Sree Shanth 👋
 
-<!--
-**dahagamsreeshanth/dahagamsreeshanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in building real-world applications
+and learning through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on full-stack web applications
+- 🤖 Interested in AI and practical applications of technology
+- 💻 Enjoy solving programming and DSA problems
+- 📫 Open to collaborating on interesting projects
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+- HTML
+- CSS
+
+**Frontend**
+- React
+- Bootstrap
+- EJS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+- Mongoose
+
+### 🚀 Projects
+
+- **WanderLust** – Full-stack travel listing web application
+- **AirWise** – Air-quality monitoring and recommendation application
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahagamsreeshanth&show_icons=true&theme=github_dark)
+
+### 🤝 Connect With Me
+
+- Linkedin - [https://www.linkedin.com/in/sree-shanth-dahagam-469885323/]
+- email - dahagamsreeshanth@gmail.com
