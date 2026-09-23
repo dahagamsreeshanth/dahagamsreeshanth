@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sree Shanth</h1>
+<h1 align="center">Hi 👋, I'm Sree Shanth Dahagam</h1>
 <h3 align="center">A passionate pre-final year CSE student at CVR College of Engineering, aspiring full-stack web developer and DSA enthusiast.</h3>
 
 ---
@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 🎓 Pre-final year CSE student at CVR College of Engineering
-- 💻 Aspiring full-stack developer, passionate about building web apps and solving real-world problems with software
+- 💻 Aspiring software developer, passionate about building web apps and solving real-world problems through software
 - 🌱 Currently improving my DSA skills in Java, with 300+ problems solved on LeetCode
 - 👨‍💻 Working on projects using the **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - 🤝 Contributed to GSSoC'26 as a open source contributor
