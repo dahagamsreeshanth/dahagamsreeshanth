@@ -9,7 +9,7 @@
 - 💻 Aspiring full-stack developer, passionate about building web apps and solving real-world problems with software
 - 🌱 Currently improving my DSA skills in Java, with 300+ problems solved on LeetCode
 - 👨‍💻 Working on projects using the **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 🤝 Contributed to open source as a open source contributor
+- 🤝 Contributed to GSSoC'26 as a open source contributor
 - 📫 Reach me at: dahagamsreeshanth@gmail.com
 
 ---
