@@ -6,10 +6,10 @@
 ### 🚀 About Me
 
 - 🎓 Pre-final year CSE student at CVR College of Engineering
-- 💻 Aspiring full-stack developer, passionate about building web apps and solving real-world problems with code
+- 💻 Aspiring full-stack developer, passionate about building web apps and solving real-world problems with software
 - 🌱 Currently improving my DSA skills in Java, with 300+ problems solved on LeetCode
 - 👨‍💻 Working on projects using the **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 🤝 Contributing to open source as a **GSSoC 2026** participant
+- 🤝 Contributed to open source as a open source contributor
 - 📫 Reach me at: dahagamsreeshanth@gmail.com
 
 ---
@@ -53,7 +53,7 @@
 
 ### 🔭 Projects & Highlights
 
-- 💬 **[WanderLust](#)** — An Airbnb-inspired MERN-style web app for listing and booking travel stays, with authentication, image uploads, and deployment on Render.
+- 💬 **[WanderLust](#)** — A full-stack web application for listing and booking travel stays, with authentication, image uploads, and deployment on Render.
 - 📈 **[StockNex](#)** — A full-stack stock trading dashboard built with React, Node.js, Express and MongoDB for tracking holdings, positions, and portfolio data.
 - 🌫️ **[AirWise](#)** — An air-quality monitoring and recommendation web app that shows pollution data on a responsive dashboard and gives health recommendations.
 
