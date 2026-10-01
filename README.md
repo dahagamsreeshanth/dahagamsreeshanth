@@ -63,16 +63,26 @@
 ---
 
  
-
 ### 🧠 Data Structures & Algorithms
 
 I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sreeshanthdahagam?theme=dark&font=Karma&ext=heatmap" height="165"/>
+  <img src="https://leetcard.jacoblin.cool/sreeshanthdahagam?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dahagamsreeshanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahagamsreeshanth&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dahagamsreeshanth&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 📫 Connect with me
 
