@@ -62,17 +62,6 @@
 
 ---
 
- 
-### 🧠 Data Structures & Algorithms
-
-I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sreeshanthdahagam?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -83,6 +72,17 @@ I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorit
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dahagamsreeshanth&theme=tokyonight&hide_border=true" />
 </p>
+
+ 
+### 🧠 Data Structures & Algorithms
+
+I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sreeshanthdahagam?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
 
 ### 📫 Connect with me
 
