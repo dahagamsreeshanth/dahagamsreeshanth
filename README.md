@@ -79,8 +79,9 @@
 I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sreeshanthdahagam?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sreeshanthdahagam?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
+
 
 ---
 
